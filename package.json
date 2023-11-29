@@ -1,0 +1,15 @@
+{
+  "name": "ionite",
+  "version": "0.0.1",
+  "description": "ESM development utilities for ionite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ionite-public/ionite-ts.git"
+  },
+  "author": "cto@ionite.com",
+  "license": "MIT"
+}
